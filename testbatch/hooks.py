@@ -213,3 +213,6 @@ app_license = "MIT"
 # auth_hooks = [
 #	"testbatch.auth.validate"
 # ]
+
+
+fixtures = ['Custom Field']
